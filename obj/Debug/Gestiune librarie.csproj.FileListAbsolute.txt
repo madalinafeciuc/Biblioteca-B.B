@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\Gestiune librarie\bin\Debug\Gestiune librarie.exe.config
+C:\Users\filip\source\repos\Gestiune librarie\bin\Debug\Gestiune librarie.exe
+C:\Users\filip\source\repos\Gestiune librarie\bin\Debug\Gestiune librarie.pdb
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune librarie.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune_librarie.MainMenu.resources
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune_librarie.Properties.Resources.resources
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune librarie.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune librarie.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune librarie.exe
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune librarie.pdb
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune_librarie.Imprumut.resources
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune_librarie.FormularImprumut.resources
+C:\Users\filip\source\repos\Gestiune librarie\obj\Debug\Gestiune_librarie.CartiImprumutate.resources
+C:\Users\filip\source\repos\Gestiune librarie\bin\Debug\Imprumut.mdf
+C:\Users\filip\source\repos\Gestiune librarie\bin\Debug\Imprumut_log.ldf
